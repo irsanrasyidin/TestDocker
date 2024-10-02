@@ -1,0 +1,8 @@
+{
+    "name": "Docker Codespace",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
+    "features": {
+      "docker-in-docker": "latest"
+    }
+}
+  
